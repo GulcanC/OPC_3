@@ -785,9 +785,13 @@ h4 {
 .tc-white {
     color: #F3976C !important;
 }
+.tc-white1 {
+    color: #fffefe !important;
+    font-weight: 600;
+}
 
 .text-white {
-    color: #FFF !important;
+    color: rgb(247, 221, 207) !important;
     font-weight: 600 !important;
     font-size: 14px !important;
 }
