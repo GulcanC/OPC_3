@@ -6,7 +6,7 @@ Optimisez un site web existant
 ### :large_orange_diamond: Visitez la page du projet
 🔗 https://gulcanc.github.io/OPC_3/
 
-### :large_orange_diamond: A Propos du Projet
+### :large_red_diamond: A Propos du Projet
 Au sein du Projet n°3 du parcours Développeur Web chez OpenClassrooms j'ai realizé un site web responsive en utilisant les langages CSS3, HTML5 et un préprocesseur CSS appelé Sass. 
 
 **Sass** signifie Syntactically Awesome Style Sheet, une technologie qui améliore mon codebase et je simplifie la vie! 
