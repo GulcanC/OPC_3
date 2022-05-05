@@ -3,10 +3,10 @@
 
 Optimisez un site web existant
 
-### :large_orange_diamond: Visitez la page du projet
+### 💕 Visitez la page du projet
 🔗 https://gulcanc.github.io/OPC_3/
 
-### :diamond: A Propos du Projet
+### 💕 A Propos du Projet
 Au sein du Projet n°3 du parcours Développeur Web chez OpenClassrooms j'ai realizé un site web responsive en utilisant les langages CSS3, HTML5 et un préprocesseur CSS appelé Sass. 
 
 **Sass** signifie Syntactically Awesome Style Sheet, une technologie qui améliore mon codebase et je simplifie la vie! 
@@ -17,7 +17,7 @@ Par ailleurs, j'ai utilisé **les pages github** afin de mettre en ligne mon sit
 
 Pour ce projet, mon site web, Ohmyfood!, est le site web d’une jeune startup qui voudrait s'imposer sur le marché de la restauration et qui répertorie les menus de restaurants gastronomiques. 
 
-### :diamond: Les Objectifs du Projet
+### 💕 Les Objectifs du Projet
 
 💧 L'objectif est de développer un site 100% mobile et qui consultera également une tablette et un ordinateur sans perdre en lisibilité et en vitesse de chargement
 
@@ -31,7 +31,7 @@ Pour ce projet, mon site web, Ohmyfood!, est le site web d’une jeune startup q
 
 
 
-### :diamond: Pour commencer à coder
+### 💕 Pour commencer à coder
 
 1- Télécharger Node.js
 [Download Node.jsDo](https://nodejs.org/en/download/)
