@@ -1,5 +1,5 @@
 
-### :diamond: Open Classrooms Projet 3
+### 💕 Open Classrooms Projet 3
 
 Optimisez un site web existant
 
