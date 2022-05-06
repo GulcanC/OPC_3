@@ -93,7 +93,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
-    
+
 }
 
 .b-parallax {
@@ -685,7 +685,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -785,6 +785,7 @@ h4 {
 .tc-white {
     color: #F3976C !important;
 }
+
 .tc-white1 {
     color: #fffefe !important;
 }
@@ -794,6 +795,7 @@ h4 {
     font-weight: 800 !important;
     font-size: 15px !important;
 }
+
 .text-black {
     color: black !important;
     font-size: 12px;
@@ -1114,7 +1116,7 @@ h4 {
 
 .keywords-white {
     color: white;
-    font-size: 1px;
+
 }
 
 .keywords-orange {
@@ -1143,11 +1145,18 @@ head {
 
 footer ul li {
     list-style-type: none;
-    
+    margin-bottom: 2rem;
+
 }
 
-footer ul li a 
-{color: rgb(30, 29, 29) !important;
+footer ul li a {
+    color: rgb(0, 0, 0) !important;
+    background: transparent;
+    padding: 0.5rem;
+    border: 1px solid rgb(16, 15, 15);
+    border-radius: 3px;
+    font-size: medium;
+   
 }
 
 .flex-footer {
@@ -1159,21 +1168,26 @@ footer ul li a
 }
 
 .footer-btn {
-   background-color: #F3976C;
+    background-color: #F3976C;
 }
 
 
 .footer-subtitle {
-    margin-left: 4rem;
+    margin-left: 3.5rem;
+    padding: 1rem;
+    font-size: medium;
+
 }
 
-.scrollToTop{
+.scrollToTop {
     bottom: 0 !important;
-    right: 0!important;
+    right: 0 !important;
 }
-.text-darkgrey{
-    color:#333333;
+
+.text-darkgrey {
+    color: #333333;
 }
+
 .contrast {
     font-size: 16px;
     font-weight: 700;
@@ -1187,6 +1201,11 @@ footer ul li a
         padding: 0;
     }
 
+    footer ul li a {
+        margin-left: 1rem;
+
+    }
+
 }
 
 
@@ -1194,6 +1213,18 @@ footer ul li a
     .adresse {
         margin-top: 0;
         margin-bottom: 0;
+
+    }
+
+    .flex-footer {
+        flex-direction: column;
+
+    }
+    footer ul li {
+        margin-left: 2rem;
+    }
+    .footer-subtitle {
+        margin-left: 5.2rem;
 
     }
 }
