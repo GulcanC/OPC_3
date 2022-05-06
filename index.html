@@ -7,19 +7,26 @@
 		content="Agence La Panthère, Agence web à paris, Agence de web design, SEO entreprise La Panthère">
 	<meta name="description" content="L'agence La Panthère, une grande agence de web design basée à Lyon.">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-	
+
 	<link rel="shortcut icon" type="image/png" href="favicon.jpg">
+
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="./css/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="./css/et-line.css">
 
+	<!-- ✨✨ add preload for crytical css ✨✨-->
 
-	<script src="./js/jquery-2.1.0.js"></script>
-	<script src="./js/bootstrap.js"></script>
-	<script src="./js/blocs.js"></script>
+	<link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript>
+		<link rel="stylesheet" href="style.css">
+	</noscript>
+
+	<!-- ✨✨ defer added ✨✨-->
+	<script src="./js/jquery-2.1.0.js" defer></script>
+	<script src="./js/bootstrap.js" defer></script>
+	<script src="./js/blocs.js" defer></script>
 	<script src="./js/jquery.touchSwipe.js" defer></script>
-	<script src="./js/gmaps.js"></script>
+	<script src="./js/gmaps.js" defer></script>
 
 	<title>Agence La Panthère</title>
 
@@ -77,7 +84,8 @@
 							Agence La Panthère
 						</h1>
 						<div class="text-center">
-							<button href="page2.html" class="btn btn-lg btn-clean btn-rd cta-hero btn-atomic-tangerine text-darkgrey"
+							<button href="page2.html"
+								class="btn btn-lg btn-clean btn-rd cta-hero btn-atomic-tangerine text-darkgrey"
 								id="cta-hero">Contact</button>
 						</div>
 					</div>
@@ -173,7 +181,8 @@
 			<div class="container bloc-lg">
 				<div class="row">
 					<div class="col-sm-12 text-center image-agance">
-						<img alt="agence web, agence web paris, web design paris, stratégie web" src="img/title2.webp" />
+						<img alt="agence web, agence web paris, web design paris, stratégie web"
+							src="img/title2.webp" />
 					</div>
 				</div>
 				<div class="row tight-width-whitespace portfolio-row">
@@ -264,22 +273,26 @@
 						<div class="d-flex">
 
 							<div>
-								<a href="https://twitter.com/i/flow/login" aria-label="first link"><i class="fa fa-twitter icon-md"></i></a>
+								<a href="https://twitter.com/i/flow/login" aria-label="first link"><i
+										class="fa fa-twitter icon-md"></i></a>
 							</div>
 
 
 							<div>
-								<a href="https://www.facebook.com/" aria-label="first link"><i class="fa fa-facebook icon-md"></i></a>
+								<a href="https://www.facebook.com/" aria-label="first link"><i
+										class="fa fa-facebook icon-md"></i></a>
 							</div>
 
 
 							<div>
-								<a href="https://dribbble.com/" aria-label="first link"><i class="fa fa-dribbble icon-md"></i></a>
+								<a href="https://dribbble.com/" aria-label="first link"><i
+										class="fa fa-dribbble icon-md"></i></a>
 							</div>
 
 
 							<div>
-								<a href="https://www.instagram.com/?hl=tr" aria-label="first link"><i class="fa fa-instagram icon-md"></i></a>
+								<a href="https://www.instagram.com/?hl=tr" aria-label="first link"><i
+										class="fa fa-instagram icon-md"></i></a>
 							</div>
 
 						</div>
@@ -299,12 +312,15 @@
 								<ul>
 									<li><a href="annuaireagence.com" aria-label="first link">annuaireagence.com</a></li>
 									<li><a href="annuaireseo.com" aria-label="first link">annuaireseo.com</a></li>
-									<li><a href="annuairemarketing.com" aria-label="first link">annuairemarketing.com</a></li>
+									<li><a href="annuairemarketing.com"
+											aria-label="first link">annuairemarketing.com</a></li>
 									<li><a href="123seoture.com" aria-label="first link">123seo.com</a></li>
 									<li><a href="123site.com" aria-label="first link">123site.com</a></li>
-									<li><a href="annuairewordpress.com" aria-label="first link">annuairewordpress.com</a></li>
+									<li><a href="annuairewordpress.com"
+											aria-label="first link">annuairewordpress.com</a></li>
 									<li><a href="listeagence.com" aria-label="first link">listeagence.com</a></li>
-									<li><a href="meilleuresagencesparis.com" aria-label="first link">meilleuresagencesparis.com</a></li>
+									<li><a href="meilleuresagencesparis.com"
+											aria-label="first link">meilleuresagencesparis.com</a></li>
 									<li><a href="listeseo.com" aria-label="first link">listeseo.com</a></li>
 								</ul>
 							</div>
@@ -317,8 +333,10 @@
 									<li><a href="meilleursliens.com" aria-label="first link">meilleursliens.com</a></li>
 									<li><a href="liensagogo.com" aria-label="first link">liensagogo.com</a></li>
 									<li><a href="backlink.com" aria-label="first link">backlink.com</a></li>
-									<li><a href="linkjuiceannuaire.com" aria-label="first link">linkjuiceannuaire.com</a></li>
-									<li><a href="remontersurgoogle.com" aria-label="first link">remontersurgoogle.com</a></li>
+									<li><a href="linkjuiceannuaire.com"
+											aria-label="first link">linkjuiceannuaire.com</a></li>
+									<li><a href="remontersurgoogle.com"
+											aria-label="first link">remontersurgoogle.com</a></li>
 									<li><a href="vraiseofiable.com" aria-label="first link">vraiseofiable.com</a></li>
 								</ul>
 							</div>
