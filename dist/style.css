@@ -788,6 +788,7 @@ h4 {
 
 .tc-white1 {
     color: #fffefe !important;
+    pad: 1rem;
 }
 
 .text-white {
@@ -1116,6 +1117,9 @@ h4 {
         margin-top: 0;
         padding: 0;
     }
+
+   
+    
 }
 
 /* LAST ADDED*/
@@ -1211,6 +1215,10 @@ footer ul li a {
     footer ul li a {
         margin-left: 1rem;
 
+    }
+    .tc-white1 {
+        color: #fffefe !important;
+        margin: 1rem !important;
     }
 
 }
