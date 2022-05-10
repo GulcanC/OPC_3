@@ -12,6 +12,7 @@
   "homepage": "https://GulcanC.github.io/OPC_3",
   "dependencies": {
     "gh-pages": "^3.2.3",
+    "imagemagick": "^0.1.3",
     "js-library-detector": "^6.5.0",
     "terser": "^5.13.1"
   }
