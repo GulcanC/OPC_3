@@ -1,7 +1,7 @@
 
 ### 💕 Open Classrooms Projet 4
 
-Optimisez un site web existant
+Optimisez un site web existant - La Panthere
 
 ### 💕 Visitez la page du projet
 🔗 https://gulcanc.github.io/OPC_3/
