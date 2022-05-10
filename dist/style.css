@@ -46,6 +46,7 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+  
 }
 
 .bloc-md {
@@ -745,6 +746,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+
 }
 
 .portfolio-row {
@@ -1099,7 +1101,7 @@ h4 {
     .image-agance img {
         width: 100% !important;
         height: auto;
-        padding: 0 1rem;
+        padding: 0 1.3rem;
         margin-top: 0;
     }
 
@@ -1205,6 +1207,33 @@ footer ul li a {
 
 } */ 
 
+.text-large1{
+    font-size:15px;
+    color: #333333;
+    font-weight: bold;
+    margin: 1rem 2rem;
+    padding: 0;
+}
+
+.text-large{
+    font-size:15px;
+    color: #333333;
+    font-weight: bold;
+    margin: 0 2rem;
+    padding: 0;
+}
+.text-large2{
+    font-size:15px;
+    color: #333333;
+}
+.text-large3{
+    font-size:15px;
+    color: #333333;
+    font-weight: bold;
+    margin: -2rem 2rem;
+    padding: 0;
+}
+
 
 @media (max-width: 592px) {
     .flex-footer {
@@ -1231,6 +1260,7 @@ footer ul li a {
         margin-bottom: 0;
 
     }
+    .text-large3{margin-top: 0;}
 
     .flex-footer {
         flex-direction: column;
