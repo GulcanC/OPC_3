@@ -12,5 +12,5 @@ Optimisez un site web existant - La Panthere
 ### 💕 Les Objectifs du Projet
 
 
-### 💕 Pour commencer à coder
+
 
