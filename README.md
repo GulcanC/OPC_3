@@ -18,9 +18,19 @@ Optimisez un site web existant - La Panthere
 
 :pen: Nous devrons améliorer sa performance, son référencement et son accessibilité pour l’optimiser.
 
-
-
 ### ↗️ Les Objectifs du Projet
+
+ :pen: Optimiser la taille et la vitesse d’un site web
+
+ :pen: Assurer l'accessibilité d'un site web
+
+ :pen: Optimiser le référencement d'un site web
+
+ :pen: Réaliser une recherche des bonnes pratiques en développement web
+
+ :pen: Écrire un code HTML et CSS maintenable
+
+
 
 
 
